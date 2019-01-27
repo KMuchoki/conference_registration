@@ -1,1 +1,1 @@
-# CIARB Conference Registration Module
+# CIArb Kenya Conference Registration Module
